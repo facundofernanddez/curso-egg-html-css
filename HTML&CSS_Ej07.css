@@ -1,0 +1,19 @@
+html {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: start;
+  color: blue;
+}
